@@ -1,0 +1,9 @@
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local dataset download
+HR_comma_sep.csv
