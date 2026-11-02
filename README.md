@@ -58,3 +58,6 @@ The employee risk labels use illustrative rules. Correlations and associations i
 
 - [HR Analytics dataset on Kaggle](https://www.kaggle.com/datasets/giripujar/hr-analytics)
 - [gdown project](https://github.com/wkentaro/gdown)
+
+## Author
+Mohamed Hassanien
